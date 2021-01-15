@@ -8,4 +8,7 @@ https://docs.google.com/document/d/1ZXqSaTm8fpIOJ52eEPiwKhxyDOYcPRNt5wBJ2Ho-mK8/
 1. http://grammatikk.com/ (All the articles with ENG flag/sign are in English.)
 2. Grammar cheatsheet https://forum.duolingo.com/comment/18650266/Norwegian-Grammar-Cheat-Sheet
 3. https://www.learnnorwegiannaturally.com/category/norwegian-grammar/
+4. Grammar Practice
+https://tekstlab.uio.no/igin/bm/
+
 
