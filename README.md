@@ -26,7 +26,8 @@ Free online Resources for learning Norwegian Language
 3. https://www.lokus.no/open/ove_til_prove
 
 ## Books & Online Practice
-1. All Free content from Cappelen Damm https://www.cappelendammundervisning.no/cdu/norsk-som-andresprak/article.action?contentId=99147
+1. All Free content from Cappelen Damm ( Words, Grammar books, På vei , Stein på Stein , Her på berget , Norsk på 1-2-3 etc ) 
+https://www.cappelendammundervisning.no/cdu/norsk-som-andresprak/article.action?contentId=99147
 2. Grammar https://exploringnorwegiangrammar.cappelendamm.no/
 3. Ny i Norge https://nyinorge.portfolio.no/
 
