@@ -1,6 +1,9 @@
 # learn-norwegian
 Free online Resources for learning Norwegian Language
 
+## Main Website for Norwegian and Social studies or Test Info
+https://www.kompetansenorge.no/Norsk-og-samfunnskunnskap/
+
 ## Online Free Courses
 ### Beginners Level
 1. A1-A2 level http://www.ntnu.edu/learnnow/
@@ -31,9 +34,11 @@ https://www.cappelendammundervisning.no/cdu/norsk-som-andresprak/article.action?
 2. Grammar https://exploringnorwegiangrammar.cappelendamm.no/
 3. Ny i Norge https://nyinorge.portfolio.no/
 4. Norsk Na https://norskna.portfolio.no/
-5. God i Norsk https://www.lokus.no/open/godinorsk 
-https://www.lokus.no/open/godinorsk2
-7. På høyden https://www.lokus.no/open/paahoeyden
+5. God i Norsk (A1-A2) https://www.lokus.no/open/godinorsk 
+(A2-B1) https://www.lokus.no/open/godinorsk2
+6. På høyden https://www.lokus.no/open/paahoeyden
+7. Mer Norsk (B1) https://mernorsk.portfolio.no/
+8. Many other free books & resources ( A1-B2 ) on https://portfolio.no/read/6444df95-87bd-4dbe-928f-788bcaa2d947
 
 ## Speaking
 1. http://visnakker.no/
@@ -57,6 +62,7 @@ https://www.lokus.no/open/godinorsk2
 2. Drops by Kahoot https://languagedrops.com/language/learn-norwegian
 3. LingQ https://www.lingq.com/en/learn-norwegian-online/
 4. https://www.clozemaster.com/
+5. Grammar games http://www.tekstlab.uio.no/grei/
 
 ## TV/Radio
 1. NRK Super ( For kids, good for Beginners ) https://nrksuper.no/
@@ -64,10 +70,11 @@ https://www.lokus.no/open/godinorsk2
 3. Online Radio https://tunein.com/radio/Stream-Norway-r100392/
 
 ## Other Links
-1. University of Oslo - Learn Norwegian ( https://www.uio.no/english/about/collaboration/academic-dugnad/online-courses/norwegian )
-2. https://sites.google.com/view/norsk/1-for-elever/om-bnorsk-no
-3. Picture Vocabulary http://clu.uni.no/bildetema/avansert.html
-4. https://languagedrops.com/resources/norwegian-language-resources
+1. https://norskfordeg.no/ ( Go to Resources on Menu )
+2. University of Oslo - Learn Norwegian ( https://www.uio.no/english/about/collaboration/academic-dugnad/online-courses/norwegian )
+3. https://sites.google.com/view/norsk/1-for-elever/om-bnorsk-no
+4. Picture Vocabulary http://clu.uni.no/bildetema/avansert.html
+5. https://languagedrops.com/resources/norwegian-language-resources
 
 ## Document with Links ( unorganized )
 https://docs.google.com/document/d/1ZXqSaTm8fpIOJ52eEPiwKhxyDOYcPRNt5wBJ2Ho-mK8/edit?usp=sharing
