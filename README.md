@@ -9,9 +9,9 @@ Free online Resources for learning Norwegian Language
 4. Basic course https://www.loecsen.com/en/learn-norwegian
 5. Audio Language Course https://www.50languages.com/phrasebook/en/no/
 ## Intermediate & Advanced
-3. A2-B1 https://www.ntnu.edu/norwegiancourse/norwegian-on-the-web
-4. B1-B2 https://www.ntnu.edu/now2
-5. B1 https://www.ntnu.edu/learnnow2-hs/
+1. A2-B1 https://www.ntnu.edu/norwegiancourse/norwegian-on-the-web
+2. B1-B2 https://www.ntnu.edu/now2
+3. B1 https://www.ntnu.edu/learnnow2-hs/
 
 ## Grammar
 1. http://grammatikk.com/ (All the articles with ENG flag/sign are in English.)
@@ -20,6 +20,16 @@ Free online Resources for learning Norwegian Language
 4. Grammar Practice https://tekstlab.uio.no/igin/bm/
 5. Free Video course https://www.norskforinnvandrere.no/gratiskurs
 
+## Practice for Tests
+1. https://www.kompetansenorge.no/prover/norskprove/ove-til-proven/
+2. https://yrkesnorsk.no/ov-til-norskproven/
+3. https://www.lokus.no/open/ove_til_prove
+
+## Books & Online Practice
+1. All Free content from Cappelen Damm https://www.cappelendammundervisning.no/cdu/norsk-som-andresprak/article.action?contentId=99147
+2. Grammar https://exploringnorwegiangrammar.cappelendamm.no/
+3. Ny i Norge https://nyinorge.portfolio.no/
+
 ## Speaking
 1. http://visnakker.no/
 2. https://www.ntnu.edu/isl/calst
@@ -27,15 +37,6 @@ Free online Resources for learning Norwegian Language
 
 ## Writing
 1. Academic Writing https://digit.ntnu.no/courses/course-v1:NTNU+MOOC002+2019-2020/about 
-
-## Practice for Tests
-1. https://www.kompetansenorge.no/prover/norskprove/ove-til-proven/
-2. https://yrkesnorsk.no/ov-til-norskproven/
-3. https://www.lokus.no/open/ove_til_prove
-
-## Books
-1. https://exploringnorwegiangrammar.cappelendamm.no/
-2. https://steinpastein.cappelendamm.no/
 
 ## Facebook
 1. Learn Norwegian - Lær norsk! :-) https://www.facebook.com/groups/234395556640898/
@@ -48,6 +49,7 @@ Free online Resources for learning Norwegian Language
 ## Other Links
 1. University of Oslo - Learn Norwegian ( https://www.uio.no/english/about/collaboration/academic-dugnad/online-courses/norwegian )
 2. https://sites.google.com/view/norsk/1-for-elever/om-bnorsk-no
+3. Picture Vocabulary http://clu.uni.no/bildetema/avansert.html
 
 ## Document with Links ( unorganized )
 https://docs.google.com/document/d/1ZXqSaTm8fpIOJ52eEPiwKhxyDOYcPRNt5wBJ2Ho-mK8/edit?usp=sharing
