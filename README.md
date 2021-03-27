@@ -11,7 +11,7 @@ https://www.kompetansenorge.no/Norsk-og-samfunnskunnskap/
 3. Video courses for Beginners https://www.futurelearn.com/subjects/language-courses/learn-norwegian
 4. Basic course https://www.loecsen.com/en/learn-norwegian
 5. Audio Language Course https://www.50languages.com/phrasebook/en/no/
-## Intermediate & Advanced
+### Intermediate & Advanced
 1. A2-B1 https://www.ntnu.edu/norwegiancourse/norwegian-on-the-web
 2. B1-B2 https://www.ntnu.edu/now2
 3. B1 https://www.ntnu.edu/learnnow2-hs/
