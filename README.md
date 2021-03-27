@@ -56,6 +56,7 @@ https://www.cappelendammundervisning.no/cdu/norsk-som-andresprak/article.action?
 1. University of Oslo - Learn Norwegian ( https://www.uio.no/english/about/collaboration/academic-dugnad/online-courses/norwegian )
 2. https://sites.google.com/view/norsk/1-for-elever/om-bnorsk-no
 3. Picture Vocabulary http://clu.uni.no/bildetema/avansert.html
+4. https://languagedrops.com/resources/norwegian-language-resources
 
 ## Document with Links ( unorganized )
 https://docs.google.com/document/d/1ZXqSaTm8fpIOJ52eEPiwKhxyDOYcPRNt5wBJ2Ho-mK8/edit?usp=sharing
