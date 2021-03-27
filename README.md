@@ -30,6 +30,10 @@ Free online Resources for learning Norwegian Language
 https://www.cappelendammundervisning.no/cdu/norsk-som-andresprak/article.action?contentId=99147
 2. Grammar https://exploringnorwegiangrammar.cappelendamm.no/
 3. Ny i Norge https://nyinorge.portfolio.no/
+4. Norsk Na https://norskna.portfolio.no/
+5. God i Norsk https://www.lokus.no/open/godinorsk 
+https://www.lokus.no/open/godinorsk2
+7. På høyden https://www.lokus.no/open/paahoeyden
 
 ## Speaking
 1. http://visnakker.no/
@@ -48,10 +52,16 @@ https://www.cappelendammundervisning.no/cdu/norsk-som-andresprak/article.action?
 ## Youtube
 1. Norwegian teacher Karense https://www.youtube.com/c/Norskl%C3%A6rerKarense/playlists 
 
-## Apps
+## Apps/Games
 1. Duolingo
 2. Drops by Kahoot https://languagedrops.com/language/learn-norwegian
 3. LingQ https://www.lingq.com/en/learn-norwegian-online/
+4. https://www.clozemaster.com/
+
+## TV/Radio
+1. NRK Super ( For kids, good for Beginners ) https://nrksuper.no/
+2. NRK TV https://tv.nrk.no/
+3. Online Radio https://tunein.com/radio/Stream-Norway-r100392/
 
 ## Other Links
 1. University of Oslo - Learn Norwegian ( https://www.uio.no/english/about/collaboration/academic-dugnad/online-courses/norwegian )
