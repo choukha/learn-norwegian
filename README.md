@@ -47,6 +47,11 @@ https://www.cappelendammundervisning.no/cdu/norsk-som-andresprak/article.action?
 
 ## Youtube
 1. Norwegian teacher Karense https://www.youtube.com/c/Norskl%C3%A6rerKarense/playlists 
+
+## Apps
+1. Duolingo
+2. Drops by Kahoot https://languagedrops.com/language/learn-norwegian
+
 ## Other Links
 1. University of Oslo - Learn Norwegian ( https://www.uio.no/english/about/collaboration/academic-dugnad/online-courses/norwegian )
 2. https://sites.google.com/view/norsk/1-for-elever/om-bnorsk-no
