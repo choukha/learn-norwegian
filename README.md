@@ -33,6 +33,12 @@ https://tekstlab.uio.no/igin/bm/
 2. https://yrkesnorsk.no/ov-til-norskproven/
 3. https://www.lokus.no/open/ove_til_prove
 
+## Books
+1. https://exploringnorwegiangrammar.cappelendamm.no/
+2. https://steinpastein.cappelendamm.no/
+
+
+
 ## Other Links
 1. University of Oslo - Learn Norwegian ( https://www.uio.no/english/about/collaboration/academic-dugnad/online-courses/norwegian )
 1. https://sites.google.com/view/norsk/1-for-elever/om-bnorsk-no
