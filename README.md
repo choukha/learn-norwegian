@@ -55,7 +55,8 @@ https://www.cappelendammundervisning.no/cdu/norsk-som-andresprak/article.action?
 4. Speak Norsk https://www.facebook.com/SpeakNorsk/videos/
 
 ## Youtube
-1. Norwegian teacher Karense https://www.youtube.com/c/Norskl%C3%A6rerKarense/playlists 
+1. Norwegian teacher Karense https://www.youtube.com/c/Norskl%C3%A6rerKarense/playlists
+2. Norwegian Teacher - Karin https://www.youtube.com/c/NorwegianTeacher/playlists
 
 ## Apps/Games
 1. Duolingo
