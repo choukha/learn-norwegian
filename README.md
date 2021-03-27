@@ -51,6 +51,7 @@ https://www.cappelendammundervisning.no/cdu/norsk-som-andresprak/article.action?
 ## Apps
 1. Duolingo
 2. Drops by Kahoot https://languagedrops.com/language/learn-norwegian
+3. LingQ https://www.lingq.com/en/learn-norwegian-online/
 
 ## Other Links
 1. University of Oslo - Learn Norwegian ( https://www.uio.no/english/about/collaboration/academic-dugnad/online-courses/norwegian )
