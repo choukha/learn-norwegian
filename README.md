@@ -16,6 +16,9 @@ https://www.kompetansenorge.no/Norsk-og-samfunnskunnskap/
 2. B1-B2 https://www.ntnu.edu/now2
 3. B1 https://www.ntnu.edu/learnnow2-hs/
 
+### All levels
+1. University of Bergen course ( Intro , Level-1,2,3,4 ) http://kurs.uib.no/norskkurs/ 
+
 ## Grammar
 1. http://grammatikk.com/ (All the articles with ENG flag/sign are in English.)
 2. Grammar cheatsheet https://forum.duolingo.com/comment/18650266/Norwegian-Grammar-Cheat-Sheet
