@@ -60,6 +60,7 @@ https://www.cappelendammundervisning.no/cdu/norsk-som-andresprak/article.action?
 ## Youtube
 1. Norwegian teacher Karense https://www.youtube.com/c/Norskl%C3%A6rerKarense/playlists
 2. Norwegian Teacher - Karin https://www.youtube.com/c/NorwegianTeacher/playlists
+3. Simple Norwegian - for beginners https://www.youtube.com/playlist?list=PLqktVoTSG9HlUrCfsQPm6EsL8L5i-KyIh
 
 ## Apps/Games
 1. Duolingo
