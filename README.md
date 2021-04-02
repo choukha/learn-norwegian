@@ -80,6 +80,7 @@ https://www.cappelendammundervisning.no/cdu/norsk-som-andresprak/article.action?
 3. https://sites.google.com/view/norsk/1-for-elever/om-bnorsk-no
 4. Picture Vocabulary http://clu.uni.no/bildetema/avansert.html
 5. https://languagedrops.com/resources/norwegian-language-resources
+6. Lingu - Free Zoom Session Every Week https://lingu.no/calendars/free-language-training-by-lingu
 
 ## Document with Links ( unorganized )
 https://docs.google.com/document/d/1ZXqSaTm8fpIOJ52eEPiwKhxyDOYcPRNt5wBJ2Ho-mK8/edit?usp=sharing
