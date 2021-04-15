@@ -18,6 +18,7 @@ https://www.kompetansenorge.no/Norsk-og-samfunnskunnskap/
 
 ### All levels
 1. University of Bergen course ( Intro , Level-1,2,3,4 ) http://kurs.uib.no/norskkurs/ 
+2. http://www.123norsk.com/index.htm
 
 ## Grammar
 1. http://grammatikk.com/ (All the articles with ENG flag/sign are in English.)
