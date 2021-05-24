@@ -74,6 +74,7 @@ https://www.cappelendammundervisning.no/cdu/norsk-som-andresprak/article.action?
 1. NRK Super ( For kids, good for Beginners ) https://nrksuper.no/
 2. NRK TV https://tv.nrk.no/
 3. Online Radio https://tunein.com/radio/Stream-Norway-r100392/
+4. https://www.elevkanalen.no/
 
 ## Other Links
 1. https://norskfordeg.no/ ( Go to Resources on Menu )
@@ -84,5 +85,3 @@ https://www.cappelendammundervisning.no/cdu/norsk-som-andresprak/article.action?
 6. Lingu - Free Zoom Session Every Week https://lingu.no/calendars/free-language-training-by-lingu
 7. https://norwegianacademy.com/blog
 
-## Document with Links ( unorganized )
-https://docs.google.com/document/d/1ZXqSaTm8fpIOJ52eEPiwKhxyDOYcPRNt5wBJ2Ho-mK8/edit?usp=sharing
