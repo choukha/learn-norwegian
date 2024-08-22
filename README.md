@@ -2,7 +2,7 @@
 Free online Resources for learning Norwegian Language
 
 ## Main Website for Norwegian and Social studies or Test Info
-https://www.kompetansenorge.no/Norsk-og-samfunnskunnskap/
+https://prove.hkdir.no/en
 
 ## Online Free Courses
 https://www.onlinenorwegian.com/post/resources
