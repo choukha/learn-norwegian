@@ -5,7 +5,6 @@ Free online Resources for learning Norwegian Language
 https://prove.hkdir.no/en
 
 ## Online Free Courses
-https://www.onlinenorwegian.com/post/resources
 ### Beginners Level
 1. A1-A2 level http://www.ntnu.edu/learnnow/
 2. Beginners https://www.ntnu.edu/nowin
