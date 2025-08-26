@@ -73,4 +73,5 @@ https://noa.cappelendamm.no/
 4. https://languagedrops.com/resources/norwegian-language-resources
 5. Lingu - https://lingu.no/events
 6. https://norwegianacademy.com/blog
+7. SOCIAL STUDIES https://samfunnskunnskap.no/en/
 
